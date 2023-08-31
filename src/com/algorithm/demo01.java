@@ -9,5 +9,9 @@ package com.algorithm;
 public class demo01 {
     public static void main(String[] args) {
         System.out.println("算法项目初始化");
+        System.out.println("算法项目初始化");
+        System.out.println("算法项目初始化");
+        System.out.println("算法项目初始化");
+        System.out.println("算法项目初始化");
     }
 }
